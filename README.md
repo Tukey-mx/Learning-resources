@@ -2,7 +2,7 @@
 
 Hi Tukey!
 
-Welcome to the Tukey's data science learning resources repo. This repo contains a collection of material from several areas of Data Science.
+Welcome to the Tukey's data -science learning resources repo. This repo contains a collection of material from several areas of Data Science.
 
 ## How to contribute?
 
